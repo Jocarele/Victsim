@@ -1,5 +1,4 @@
 ##  RESCUER AGENT
-### @Author: Tacla (UTFPR)
 ### @Altered by João Lucas Marques Camilo
 ### Demo of use of VictimSim
 
